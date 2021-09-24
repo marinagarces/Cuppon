@@ -1,0 +1,48 @@
+body {
+  font-family: 'roboto', sans-serif;
+}
+
+h5, h6, h3, h4, p{
+  font-weight: 300;
+}
+
+.cupones {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.col1, .col2, .col3, .col4, .col5, .col6 {
+  margin-top: 10%;
+}
+.preciobajo{
+  color: #28A745;
+}
+.card-footer{
+  background-color: white;
+}
+p, h5{
+  color: #707070;
+}
+svg {
+  width: 8px;
+  height: auto;
+}
+.formulario{
+  background-color: #28A745;
+  padding-bottom: 1%;
+  text-align: center;
+}
+.tituloform{
+  padding-top: 5%;
+  color: white;
+  text-align: center;
+}
+.logofooter {
+  width: 82px;
+  height: 24px;
+}
+.footer {
+width: 100%;
+height: auto;
+margin-top: 5%;
+text-align:center;
+}
